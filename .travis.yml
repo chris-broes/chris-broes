@@ -3,8 +3,9 @@ rvm:
 - 2.2.2 
 env:
   global:
-    - secure: G7yT7Q+TOhPrCZU9F+MJ7juFrNEBC+TfA2AGrDmND+9Qp0HnibGMqHub8wJ5UeWPB0BgiE2ki0SUcKf+bBQiRbxFqY7TuPUhDXEoIE1nyHgSVrSJxCpBSbjSSUmCccKAepbfC2/P/MD9kCoqk2xqCziMHkejlngQx0nOaR6D5S8=
-    - secure: eQsXR6ZB6ZGz3phNekZQS3Aa/UjuIIvfCy/DPrNduegaHMVNS9Jvrm/+4bPQ3JbzdWYg6kk+XHq4VACarap+zJGFCBBwtFfpCL0bzvcjiWK9mfb/yDBak6BSFASairRDObqEV9CGrj3y3iJhsX4VU/fuC5ia56Qnl6n6Kbupif0=
+    - secure: frXcDuNPF1GFil2DeGx8dNQ+/Pw/IAsk8fr47KevY7+71flzFK79YwZyCxFJ034rvHclNNmnKorN96xia9YMoOP+EgMk9dZaQ4Hq7UmW5+DPjU4nfSlEz38CxVclHl9/KJvVyvQXV4vLuHOBEuj9cGoY/+lIjmpAyh/W8OTtZ4A=
+    - secure: dvjFufJ+FmeI7DBbUW29qhSHq8B4qFWWol/My8sSPuhqtZk4Cviz96/LHLT1TqeAzf9TcBE5LjUrTlyK4FQOpqxwz2El/+4Wm6rsegDhWOe3v4ueZUb0ElTOvjDWLN412se42Y+9d/SX0OqcG77eOSFAQQcs/GV93APLCOUZUzY=
+
 
 # before_script:
 script: 
